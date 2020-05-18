@@ -1,0 +1,30 @@
+.Step2-container {
+  display: flex;
+}
+.Step2-.scroll {
+  width: 200px;
+  overflow-x: scroll;
+}
+.Step2-.fixed {
+  border-spacing: 0;
+}
+.Step2-.fixed thead tr {
+  background-color: #f07e7e;
+  height: 30px;
+}
+.Step2-.scrollable thead tr {
+  background-color: #f07e7e;
+  height: 30px;
+}
+
+.Step2-.scrollable thead {
+  background-color: #f07e7e;
+}
+.Step2-.scrollable {
+  width: 100px;
+  border-spacing: 0;
+}
+.Step2-td {
+  min-width: 150px !important;
+  border: 1px solid #221111;
+}
