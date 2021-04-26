@@ -94,7 +94,7 @@ const Dashboard = () => {
             data={{
               labels: [
                 "Identity",
-                "Risk",
+                "Risks",
                 "Payments",
                 "FI",
                 "Data Migration",
